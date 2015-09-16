@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說毘沙門天王經
+#+DATE: 2015-08-30 20:33:14.550656
+#+PROPERTY: JUAN 0
